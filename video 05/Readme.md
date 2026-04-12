@@ -1,4 +1,4 @@
-<img width="1903" height="1012" alt="image" src="https://github.com/user-attachments/assets/b5230634-e2d8-41f1-b256-f571165346a2" />
+
 # Download Maven
 
 ### Step 01 - Check Java version
