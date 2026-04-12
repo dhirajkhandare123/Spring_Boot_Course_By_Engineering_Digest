@@ -38,7 +38,7 @@ public class MyClass {
 
 Open browser or Postman:
 
-GET http://localhost:8080/hello
+GET http://localhost:8080/abc
 
 # Output
 
