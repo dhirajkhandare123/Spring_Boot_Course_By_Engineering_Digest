@@ -146,5 +146,28 @@ after package jar file generated in target folder
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c4d82bea-d1ec-47a4-be2f-6bae51d14232" />
 
 <br>
+<br>
+<br>
 
+##### ./mvnw install
 
+### ✅ What is ./mvnw install ?
+
+./mvnw install is a command used to build your project and install it into your local Maven repository using the Maven Wrapper (mvnw).
+
+### 🔹 Why we use it?
+✅ 1. Reuse your project
+
+Other projects can use your project as dependency
+
+✅ 2. Ensure everything works
+
+Runs full build lifecycle
+
+✅ 3. Needed in multi-module projects
+
+One module depends on another
+
+<hr>
+
+##### ./mvnw clean
